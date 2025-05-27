@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Assembly language**
 
-- 👨‍💻 All of my projects are available at [https://wersdown.dev](https://wersdown.dev)
+- 👨‍💻 All of my projects are available at [https://posgen.app](https://posgen.app)
 
-- 💬 Ask me about **Java, JavaScript etc.**
+- 💬 Ask me about **Java, C++, C# etc.**
 
-- 📫 How to reach me **novacry@icloud.com**
+- 📫 How to reach me **novacry@mail.com**
 
 - ⚡ Fun fact **Nothing.**
 
